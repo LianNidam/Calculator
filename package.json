@@ -1,0 +1,14 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "my first web application.",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lian Nidam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
